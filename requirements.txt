@@ -1,0 +1,8 @@
+matplotlib==3.9.3
+matplotlib-inline
+numpy==1.26.4
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+torchviz==0.0.3
+tqdm==4.67.1
