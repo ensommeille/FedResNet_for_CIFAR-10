@@ -20,7 +20,7 @@ This is an implementation of a federated learning system for image classificatio
 4. **Run**: `cd <PATH_TO_THE_CLONED_REPO>`
 5. **Run**: `pip install -r requirements.txt` to install necessary packages.
 
-## Reproduce Paper Results
+## Run the code
 
 ### FedResNet Results on CIFAR10
 1. **Run**: `cd FedResNet`
